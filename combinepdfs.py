@@ -1,6 +1,4 @@
 # combinePdfs.py - Combines all the PDFs in the current working directory into 
-
-
 import PyPDF2, os
 
 pdfFiles = []
